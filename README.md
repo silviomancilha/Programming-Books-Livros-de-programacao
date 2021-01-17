@@ -10,4 +10,4 @@
 1. Mostly in Portuguese (BR) from the Casa do Código. 
 2. The uploads must be under 25 mb, leaving out a lot of good books (links to download?).
 3. _Take one, leave one_: Add and share the books you'll find.
-4. _Organization_: Any hel is welcome to organize the books in their appropriate category/level.
+4. _Organization_: Any help is welcome to organize the books in their appropriate category/level.
