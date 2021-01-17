@@ -1,7 +1,13 @@
-### Books
--(PT-Br) Livros de programação/computação. 
-Grande parte em português (BR) da Casa do Código. Os uploads precisam ser menores que 25 mb, deixando de fora vários livros bons. 
+### (Pt-Br) Sobre tudo isso...
 
+1. Grande parte dos livros em português (BR) da Casa do Código. 
+2. Os uploads precisam ser menores que 25 mb, deixando de fora vários livros bons (links para download?). 
+3. _Pegue um, deixe um_: Acrescente e divulgue os livros que encontrar.
+4. _Organização_: Toda ajuda é bem-vinda para organizar os livros em suas categorias/níveis apropriados.
+---
+### (EN) About all this...
 
--(EN) Programming/Comp.Sci books. 
-Mostly in Portuguese (BR) from the Casa do Código. The uploads must be under 25 mb, leaving out a lot of good books.
+1. Mostly in Portuguese (BR) from the Casa do Código. 
+2. The uploads must be under 25 mb, leaving out a lot of good books (links to download?).
+3. _Take one, leave one_: Add and share the books you'll find.
+4. _Organization_: Any hel is welcome to organize the books in their appropriate category/level.
